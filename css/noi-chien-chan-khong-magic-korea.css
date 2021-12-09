@@ -1,0 +1,13 @@
+ .rating {
+    color: #FFD200;
+    font-size: 12px;
+    padding: 12px 0 0;
+    margin: 0;
+    list-style: none;
+}
+img{
+    width:100%;
+}
+.description-product-right {
+    margin:1.7rem 0;
+}
